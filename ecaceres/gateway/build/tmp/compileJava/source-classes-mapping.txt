@@ -1,0 +1,2 @@
+org/jpos/tutorial/SelectDestination.java
+ org.jpos.tutorial.SelectDestination

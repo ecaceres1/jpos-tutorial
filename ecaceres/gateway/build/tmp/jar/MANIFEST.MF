@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: gateway
+Implementation-Version: 2.1.6
+Class-Path: lib/jpos-2.1.6.jar lib/org.osgi.core-6.0.0.jar lib/javassi
+ st-3.27.0-GA.jar lib/snakeyaml-1.26.jar lib/jdbm-1.0.jar lib/je-18.3.
+ 12.jar lib/sshd-core-2.4.0.jar lib/eddsa-0.3.0.jar lib/jdom2-2.0.6.ja
+ r lib/javatuples-1.2.jar lib/jline-3.19.0.jar lib/bsh-2.0b6.jar lib/c
+ ommons-cli-1.4.jar lib/bcpg-jdk15on-1.67.jar lib/bcprov-jdk15on-1.67.
+ jar lib/sshd-common-2.4.0.jar lib/slf4j-api-1.7.30.jar lib/HdrHistogr
+ am-2.1.12.jar
+Main-Class: org.jpos.q2.Q2
+
